@@ -28,3 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmit990&show_icons=true&locale=en&layout=compact" alt="Asmit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&locale=en" alt="ASmit" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asmit990&label=Profile%20views&color=0e75b6&style=flat" alt="asmit990" /> &nbsp 
+<a href="https://github.com/asmit990?tab=followers"><img src="https://img.shields.io/github/followers/asmit990?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp 
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: At Gym"> &nbsp
+<img src="https://img.shields.io/badge/Field-%20Web%20Dev%20%7C%20Data%20Science%20-blue" alt="Field: Web Dev | Data Science"> </p>
