@@ -25,3 +25,6 @@
 
 ## ⚡ Fun fact:
 - I once built a project using Rust for the first time and loved the challenge! 🔥
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushsrivastava444&show_icons=true&locale=en&layout=compact" alt="aayushsrivastava444" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushsrivastava444&show_icons=true&locale=en" alt="aayushsrivastava444" /></p>
