@@ -36,7 +36,7 @@
 ## 📫 Contact Me
 
 - ✉️ Email: [asmitpandey41@gmail.com](mailto:asmitpandey41@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/asmit-pandey-950406290](https://linkedin.com/in/asmit-pandey-950406290)  
+- 💼  
 - 🧠 Blog (soon): Personal DevOps and system design deep-dives  
 
 ---
