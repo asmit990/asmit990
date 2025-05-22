@@ -15,8 +15,8 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**: JavaScript, TypeScript, Python, Bash  
-**Backend**: Node.js, Express, REST APIs, WebSockets, gRPC  
+**Languages**: JavaScript, TypeScript,Java, Python, Bash  
+**Backend**: Node.js, Express, REST APIs, WebSockets, gRPC , Springboot
 **DevOps & Cloud**: Docker, Kubernetes, AWS, Fly.io, GitHub Actions, Prometheus, Grafana  
 **Tools**: Git, Postman, VS Code, Linux, Nginx, MongoDB, Redis, Kafka  
 **Others**: System Design, CI/CD, Monitoring, Reverse Proxies, Security Best Practices  
@@ -36,7 +36,6 @@
 ## 📫 Contact Me
 
 - ✉️ Email: [asmitpandey41@gmail.com](mailto:asmitpandey41@gmail.com)  
-- 💼  
 - 🧠 Blog (soon): Personal DevOps and system design deep-dives  
 
 ---
