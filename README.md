@@ -1,27 +1,13 @@
- # 👋 Hi there, I'm Asmit Pandey!
+## hi, I am asmit 
+<h2 align="center"> 
+   I'm full stack and devop enthusiast
+</h2>
 
-🚀 I'm a passionate DevOps and backend enthusiast, working towards becoming a high-impact engineer with strong system design and infrastructure skills.
+# Want to know more 
+<h1 href="http://portfoliohehe.vercel.app" align="center">
+ this is the website 
+</h1>
 
----
-
-## 🌱 Currently Learning
-
-- **DevOps**: Docker 🐳, Kubernetes ☸️, CI/CD, Infrastructure as Code (IaC), Monitoring & Observability  
-- **Cloud**: AWS (EC2, S3, EKS), Fly.io, Nginx, Load Balancers  
-- **Security**: DevSecOps, RBAC, Secrets Management, SIEM (WIP)  
-- **Backend Engineering**: Message Queues (Kafka, Redis), Advanced DB Concepts, Scalable Systems, Real-time Communication  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: JavaScript, TypeScript,Java, Python, Bash  
-**Backend**: Node.js, Express, REST APIs, WebSockets, gRPC , Springboot
-**DevOps & Cloud**: Docker, Kubernetes, AWS, Fly.io, GitHub Actions, Prometheus, Grafana  
-**Tools**: Git, Postman, VS Code, Linux, Nginx, MongoDB, Redis, Kafka  
-**Others**: System Design, CI/CD, Monitoring, Reverse Proxies, Security Best Practices  
-
----
 
 ## 📈 GitHub Stats
 
