@@ -1,13 +1,65 @@
-## hi, I am asmit 
-<h2 align="center"> 
-   I'm full stack and devop enthusiast
+## Hi, I am Asmit
+
+<h2 align="center">
+  I'm a Full Stack Developer & DevOps Enthusiast
 </h2>
 
-# Want to know more 
-<h1 href="http://portfoliohehe.vercel.app" align="center">
- this is the website 
+# Want to know more?
+
+<h1 align="center">
+  <a href="http://portfoliohehe.vercel.app" target="_blank" rel="noopener noreferrer">This is my website</a>
 </h1>
 
+---
+
+## 🚀 Skills
+
+- **Languages:** JavaScript, TypeScript, Java, C, C++
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, Go, Java Spring Boot
+- **DevOps:** Docker, Kubernetes, AWS, Terraform, Ansible, CI/CD (GitHub Actions)
+- **Databases:** MongoDB, MySQL, PostgreSQL, Prisma ORM
+- **Tools:** Git, GitHub, Postman, Figma, VS Code, Cloudflare Workers
+
+---
+
+## 💼 Projects
+
+### [Expense Tracker (Hackathon)](https://asmit990.github.io/hackathon-expensetracker/)
+- Built in under 7 hours during a college hackathon
+- Tracks daily income and expenses with real-time balance updates
+- Responsive and mobile-friendly UI
+
+### [Blockchain Prototype](https://github.com/asmit990/blockchain-prototype)
+- Implemented core blockchain logic with block mining and proof-of-work
+- ECDSA for wallet security and RESTful API integration
+- CLI for chain viewing, transactions, and node syncing
+
+### [Frames Club Website](https://asmit990.github.io/frames-web/)
+- Official photography club website for university
+- Features event photos, gallery slider, and member highlights
+
+### [TRANSchanger](https://asmit990.github.io/TRANSchanger/)
+- Text transformation app using Hugging Face’s NLP API
+- Enhances user input with AI-powered text modifications
+
+---
+
+## 🏆 Achievements
+
+- 4th Place – College Hackathon: Built a fully functional expense tracker in under 7 hours among 40+ teams
+
+---
+
+## 🎓 Education
+
+- B.Tech in Information Technology (2023 – 2027)  
+  Gautam Buddha University, Greater Noida, Uttar Pradesh
+
+- CBSE Class XII (2021 – 2022)  
+  Kendriya Vidyalaya IIT Kanpur, Kanpur, Uttar Pradesh
+
+---
 
 ## 📈 GitHub Stats
 
@@ -22,7 +74,9 @@
 ## 📫 Contact Me
 
 - ✉️ Email: [asmitpandey41@gmail.com](mailto:asmitpandey41@gmail.com)  
-- 🧠 Blog (soon): Personal DevOps and system design deep-dives  
+- 🔗 LinkedIn: [linkedin.com/in/asmit-pandey-950406290](https://www.linkedin.com/in/asmit-pandey-950406290)  
+- 🧑‍💻 GitHub: [github.com/asmit990](https://github.com/asmit990)  
+- 🧠 Blog (coming soon): Personal DevOps and System Design deep-dives  
 
 ---
 
@@ -33,6 +87,7 @@
 ---
 
 _Thanks for stopping by! Let’s build something amazing together 💻⚡_
+
 ```bash
->asmit do it
->done :)
+> asmit do it
+> done :)
