@@ -52,7 +52,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
  <a href="http://www.x.com/asmitwt" target="_blank" rel="noopener noreferref">
-  <img alt="X" src="https://www.ezone.co.uk/images/badges/128/x.png" />
+  <img alt="X" src="https://www.ezone.co.uk/images/badges/12/x.png" />
 </p>
 
 ---
