@@ -51,6 +51,8 @@
   <a href="https://github.com/asmit990" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
+ <a href="http://www.x.com/asmitwt" target="_blank" rel="noopener noreferref">
+  <img alt="X" src="https://www.ezone.co.uk/images/badges/128/x.png" />
 </p>
 
 ---
