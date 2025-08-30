@@ -1,7 +1,7 @@
 # Hi, I am Asmit 👋
 
 <h3 align="center">
-  Full Stack Developer & DevOps Enthusiast
+ Backend focused Full Stack Developer & DevOps Enthusiast
 </h3>
 
 <p align="center">
