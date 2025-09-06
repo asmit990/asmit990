@@ -1,7 +1,7 @@
 # Asmit Pandey
 
 ### Backend-Focused Full Stack Developer | DevOps Enthusiast
-<a href="portfoliohehe.vercel.app">portolio</a>
+<a href="portfoliohehe.vercel.app">portfolio</a>
 
 ---
 
