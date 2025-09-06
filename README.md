@@ -1,34 +1,28 @@
 # Asmit Pandey
 
-### Backend-Focused Full Stack Developer | DevOps Enthusiast
-<a href="portfoliohehe.vercel.app">portfolio</a>
+### Backend & DevOps Engineer | Building Scalable Systems
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://portfoliohehe.vercel.app)
 
 ---
 
-## Education
-
+##  Education
 - **B.Tech in Information Technology** – Gautam Buddha University, Greater Noida  
-- **CBSE Class XII** – Kendriya Vidyalaya IIT Kanpur, Kanpur
+- **CBSE Class XII** – Kendriya Vidyalaya IIT Kanpur, Kanpur  
 
 ---
-
-## GitHub Stats
-
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmit990&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-## Contact
-
+##  Contact
 <p align="center">
   <a href="mailto:asmitpandey41@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" />
   </a>
- 
   <a href="https://github.com/asmit990" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
   </a>
@@ -39,19 +33,23 @@
 
 ---
 
-## About Me
+##  About Me
+I focus on **backend systems, DevOps automation, and scalable architectures**.  
+Tech I work with:  
+- **Languages:** Go, Node.js, TypeScript, Python  
+- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, Linux  
+- **Databases:** PostgreSQL, MongoDB, Redis  
 
-I focus on building robust backend systems, scalable applications, and automating processes. My goal is to deliver reliable software solutions that make a real impact.
+My aim is to build reliable software and automate workflows that let systems run smoothly at scale.  
 
 ---
 
-## Quote
-
-*"The best way to predict the future is to build it — and automate it."*
+##  Quote
+*"The best way to predict the future is to build it."*  
 
 ---
 
 <p align="center">
-  _Thank you for visiting. Let’s build something exceptional together._
+  _Thanks for stopping by — let’s build something exceptional together._
 </p>
 
