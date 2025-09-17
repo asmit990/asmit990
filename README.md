@@ -7,7 +7,7 @@
 
 ##  Education
 - **B.Tech in Information Technology** – Gautam Buddha University, Greater Noida  
-- **CBSE Class XII** – Kendriya Vidyalaya IIT Kanpur, Kanpur  
+- **CBSE Class XII** – Kendriya Vidyalaya IIT Kanpur, Kanpur
 
 ---
 ##  GitHub Stats
