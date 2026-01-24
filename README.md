@@ -5,13 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://portfoliohehe.vercel.app)
 
 ---
-
- 
-##  Education
-- **B.Tech in Information Technology** – Gautam Buddha University, Greater Noida  
-- **CBSE Class XII** – Kendriya Vidyalaya IIT Kanpur, Kanpur
-
----
 ##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&theme=purple" alt="GitHub Stats" />
