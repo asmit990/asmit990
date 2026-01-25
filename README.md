@@ -32,16 +32,3 @@ berojagar <br>idk more
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-##  About Me
-I focus on **backend systems, DevOps automation, and scalable architectures**.  
-Tech I work with:  
-- **Languages:** Go, Node.js, TypeScript, Python  
-- **Tools & Platforms:** Docker, Kubernetes, GitHub Actions, Linux  
-- **Databases:** PostgreSQL, MongoDB, Redis  
-
-
-
-<p align="center">
-  _Thanks for stopping by — let’s build something exceptional together._
-</p>
-
