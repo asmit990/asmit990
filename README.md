@@ -14,8 +14,15 @@
 ##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&theme=purple" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&hide_progress=true" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&theme=radical"/>
 </p>
+<a href="https://github.com/asmit990/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asmit990&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/asmit990/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asit990&repo=convoychat" />
+</a>
 
 ---
 
