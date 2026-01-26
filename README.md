@@ -1,6 +1,4 @@
 
-![asmit990's Stats](https://github-readme-stats.vercel.app/api?username=asmit990&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ViewCount](https://views.whatilearened.today/views/github/asmit990/views.svg)
 
-![asmit990's Stats](https://github-readme-stats.vercel.app/api?username=asmit990&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![asmit990's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHubStreak](https://nirzak-streak-stats.vercel.app/?user=asmit990&theme=dark)
