@@ -1,6 +1,6 @@
 # 👋 Asmit Pandey
 
-### Backend & DevOps Engineer | Systems • Infra • Scale
+### Backend & DevOps Engineer | Systems • Infrastructure • Scale
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://portfoliohehe.vercel.app)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/asmitwt)
@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-- Backend & infra-focused engineer  
-- Interested in **distributed systems, concurrency, DevOps, and reliability**
-- Enjoy working close to the system: **performance, internals, failure modes**
-- Currently deepening **DSA, system design, and backend architecture**
-- I like software that **keeps working under pressure**
+- Backend-focused engineer
+- Interested in **distributed systems, DevOps, and system internals**
+- Like working on **performance, concurrency, and reliability**
+- Currently strengthening **DSA + system design**
+- Prefer simple systems that fail less
 
 ---
 
@@ -27,65 +27,66 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-### Backend / Infra
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+### Tools & Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&layout=compact&theme=onedark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asmit990&show_icons=true&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🧪 Most Used Languages (Working)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asmit990&theme=onedark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit990&layout=compact" height="170"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🔥 Contribution Streak (Stable)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmit990&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://streak-stats.demolab.com?user=asmit990"/>
 </p>
 
 ---
 
-## 🧩 Coding Activity (Auto-updating)
+## 📈 Contribution Graph (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asmit990&theme=onedark&layout=compact"/>
-</p>
-
-> _(Shows real coding time if WakaTime is connected)_
-
----
-
-## 🏆 GitHub Trophies (Fixed)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asmit990&theme=onedark&no-frame=true&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmit990"/>
 </p>
 
 ---
 
-## 🧠 Philosophy
+## 🏆 GitHub Trophies (If GitHub allows)
 
-> *“Simple systems fail less. Clear code scales better.”*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asmit990"/>
+</p>
+
+> ⚠️ If this section disappears sometimes — it’s normal.  
+> GitHub rate-limits this service randomly.
+
+---
+
+## 🧠 Dev Philosophy
+
+> *Simple systems scale better.  
+> Clear code fails less.*
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=asmit990&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=asmit990"/>
 </p>
 
 
