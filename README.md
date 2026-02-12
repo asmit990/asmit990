@@ -30,6 +30,6 @@ Backend-focused developer who enjoys building reliable systems, APIs, and develo
 ![GitHubStreak](https://nirzak-streak-stats.vercel.app/?user=asmit990&theme=dark)
 
 ## Reach me
-- Portfolio: https://protfoliohehe.vercel.app  
+- Portfolio: https://portfoliohehe.vercel.app  
 - GitHub: https://github.com/Yasmit990
 
